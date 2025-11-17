@@ -9,7 +9,6 @@ these builds are considered beta. even though they should work fine. you may run
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Screenshot 1" src="1.png">|<img width="1604" alt="Screenshot 2" src="2.png">|<img width="1604" alt="Screenshot 3" src="3.png">|
-|<img width="1604" alt="Screenshot 4" src="4.png">|
 
 # How to Build
 
